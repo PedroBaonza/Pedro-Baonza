@@ -26,7 +26,7 @@ Soy un desarrollador Android con experiencia en Kotlin, Java y arquitectura MVVM
 
 ### 🛍️ **Mall-Center App**
 Aplicación Android que permite a los usuarios explorar centros comerciales, tiendas y productos. Incluye login con Firebase, likes, y navegación entre secciones.  
-🔗 [Ver repositorio]([https://github.com/tu-usuario/shoppingmall-app](https://gitlab.com/pedrobaonza0115/tfg-mallcenter_2025))
+🔗 [Ver repositorio](https://github.com/tu-usuario/shoppingmall-app](https://gitlab.com/pedrobaonza0115/tfg-mallcenter_2025))
 
 ### 📖 **Mi portafolio web**
 Un sitio web simple para mostrar mis proyectos y contacto.  
