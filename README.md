@@ -1,69 +1,83 @@
-<!-- Encabezado principal -->
+<!-- Banner personalizado (puedes subir una imagen a GitHub y usar la URL) -->
+<p align="center">
+  <img src="https://your-banner-url.com/banner.png" alt="Pedro Baonza Banner" />
+</p>
+
 <h1 align="center">👋 ¡Hola! Soy Pedro Baonza</h1>
 <h3 align="center">Desarrollador Android | Apasionado por la tecnología y la experiencia de usuario</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+Android+con+Kotlin+y+Firebase;Amante+del+clean+code+y+el+dise%C3%B1o+UI;Buscando+nuevas+oportunidades+profesionales" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Android+Developer+%7C+Kotlin+%7C+Firebase;MVVM+Architecture+%7C+Clean+Code+Lover;Always+Learning+%7C+Building+My+Career" />
 </p>
+
+<div align="center">
+  <a href="mailto:pedrobaonza0115@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-baonza-garc%C3%ADa-411b15274">
+    <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://gitlab.com/tu-usuario/shoppingmall-app">
+    <img src="https://img.shields.io/badge/GitLab-TFG%20Project-orange?style=for-the-badge&logo=gitlab" />
+  </a>
+</div>
 
 ---
 
 ## 📌 Sobre mí
 
-Soy un desarrollador Android en formación con un perfil técnico sólido y una actitud proactiva. Mi enfoque está en construir aplicaciones modernas, funcionales y centradas en el usuario. Me adapto fácilmente a nuevos entornos y tecnologías, y disfruto tanto del trabajo individual como colaborativo.
+Soy un desarrollador Android en formación, con perfil técnico y pasión por crear soluciones que mezclen funcionalidad con diseño atractivo.  
+Mi objetivo es crecer profesionalmente creando software intuitivo, escalable y útil para las personas.
 
-🔧 Formado también como técnico en sistemas eléctricos y automatismos, aporto una visión integral desde la infraestructura hasta la experiencia digital.
-
-🎯 Actualmente, estoy finalizando mi **TFG**, una app de e-commerce enfocada en centros comerciales, desarrollada con arquitectura **MVVM**, **Firebase** y un diseño moderno e internacionalizado.
-
----
-
-## 🧠 Resumen profesional
-
-- 📱 Desarrollo Android con Kotlin y XML
-- 💡 Arquitectura MVVM, Repository pattern, Firebase
-- 🌍 Diseño UI/UX limpio, internacionalizado (ES/EN)
-- 🔄 Pruebas unitarias con JUnit, trabajo con Retrofit y Glide
-- 🤝 Buen manejo de Git, GitHub y GitLab
+🔧 Formación también como técnico en sistemas eléctricos, lo que me aporta una visión completa desde lo técnico hasta lo visual.  
+🎓 Actualmente finalizando mi TFG con una app Android enfocada en el sector e-commerce para centros comerciales.
 
 ---
 
-## 🎓 Formación
+## 🧠 ¿Qué me diferencia como desarrollador?
 
-🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**  
-📍 *IES Gonzalo Chacón – Madrid*  
-🗓️ *2023 – 2025*
-
-🔌 **Técnico Superior en Sistemas Electrotécnicos y Automáticos**  
-📍 *IES Satafi – Getafe*  
-🗓️ *2021 – 2023*
+- 💡 Capacidad de unir hardware y software
+- 🧼 Enfoque en código limpio y arquitectura escalable
+- 🤝 Buenas habilidades de trabajo en equipo y colaboración
+- 🌱 En constante aprendizaje (tecnologías, buenas prácticas, testing)
+- 🎯 Alta orientación al usuario y usabilidad
 
 ---
 
-## 🚀 Proyecto destacado – Trabajo Final de Grado (TFG)
+## 🎓 Formación Académica
 
-### 🛍️ **ShoppingMall App** – App Android de e-commerce y exploración de centros comerciales
+- 🧑‍💻 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**  
+  IES Gonzalo Chacón – Madrid *(2023 – 2025)*
 
-<img align="right" width="300" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif">
-
-**Descripción**:  
-Una aplicación móvil que permite al usuario explorar diferentes centros comerciales, descubrir tiendas, ver productos destacados y gestionar su perfil.  
-La app está enfocada en la experiencia de usuario y cuenta con funciones sociales como "likes" por centro comercial, buscador de productos y navegación por secciones.
-
-**Tecnologías utilizadas**:
-- 🧱 Arquitectura MVVM + Repository
-- 🔥 Firebase (Auth, Firestore, Storage)
-- 📡 Retrofit para consumo de APIs
-- 🖼️ Glide para carga de imágenes
-- 🌐 Internacionalización (ES/EN)
-- 🧪 JUnit para pruebas unitarias
-- 🎨 Diseño moderno, con secciones tipo card y fondo degradado
-
-🔗 [Ver proyecto en GitLab](https://gitlab.com/tu-usuario/shoppingmall-app)
+- ⚡ **Técnico Superior en Sistemas Electrotécnicos y Automáticos**  
+  IES Satafi – Getafe *(2021 – 2023)*
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🚀 Proyecto de TFG – ShoppingMall App
+
+### 🛍️ Android App – E-commerce de Centros Comerciales
+
+<img src="https://your-image-url.com/shoppingmall-preview.png" width="300" align="right" />
+
+**Descripción**  
+Aplicación que permite al usuario descubrir centros comerciales, ver tiendas, productos, dar likes, y gestionar su perfil.  
+Orientada a una navegación simple, internacionalización (ES/EN), y conectividad en tiempo real con Firebase.
+
+**Características principales**
+- 🔐 Login con Firebase Auth
+- 🏬 Listado de centros comerciales con likes individuales por usuario
+- 📱 Diseño moderno con imágenes, tarjetas y secciones destacadas
+- 🌍 Internacionalización completa (ES / EN)
+- 📦 Gestión de productos, noticias, perfil, carrito, y navegación por secciones
+- 💬 Arquitectura MVVM y separación por capas
+- 🧪 Pruebas con JUnit
+
+🔗 [Repositorio en GitLab](https://gitlab.com/tu-usuario/shoppingmall-app)
+
+---
+
+## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
 
@@ -81,43 +95,50 @@ La app está enfocada en la experiencia de usuario y cuenta con funciones social
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experiencia profesional
+
+| Puesto                        | Empresa          | Periodo            |
+|------------------------------|------------------|--------------------|
+| Electromecánico              | Gestiman         | 07/2023 – 08/2024  |
+| Atención al cliente (X-Madrid) | Prosegur / Trablisa | 09/2022 – 03/2025  |
+| Electricista técnico         | Ángel Feito / IVOLTA | 2021 – 2023       |
+
+---
+
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tu-usuario&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tu-usuario&theme=tokyonight" />
 </p>
 
 ---
 
-## 💼 Experiencia laboral
+## 🗺️ Roadmap de crecimiento
 
-- 🎡 **Electromecánico – Gestiman (2023–2024)**  
-  Mantenimiento de atracciones acuáticas (Warner Beach y Aquopolis)
-
-- 🧾 **Atención al cliente – Trablisa / Prosegur (2023–2025)**  
-  Gestión de incidencias, atención al público y soporte en centro comercial X-Madrid
-
-- 💡 **Electricista – Ángel Feito / IVOLTA (2021–2023)**  
-  Diseño lumínico, mantenimiento e instalaciones eléctricas
+🎯 **Lo que estoy aprendiendo y planeo dominar pronto:**
+- Jetpack Compose para interfaces modernas
+- Clean Architecture avanzada con UseCases y DI
+- Pruebas con Mockito y UI Testing
+- Backend con Spring Boot y Firebase Functions
+- Mejora de inglés técnico y certificación Google Android Associate
 
 ---
 
 ## 🌍 Idiomas
 
-- Español: Nativo 🇪🇸  
-- Inglés: Nivel básico/intermedio 🇬🇧 *(En proceso de mejora continua)*
+- 🇪🇸 Español (Nativo)  
+- 🇬🇧 Inglés (Básico/intermedio – en progreso)
 
 ---
 
 ## 📫 Contacto
 
-¿Te gustaría colaborar conmigo o contratarme?
+¿Quieres colaborar, contratarme o ver mi trabajo?
 
-- ✉️ Email: [pedrobaonza0115@gmail.com](mailto:pedrobaonza0115@gmail.com)  
-- 💼 LinkedIn: [Pedro Baonza García](https://www.linkedin.com/in/pedro-baonza-garc%C3%ADa-411b15274/)  
-- 📍 Madrid, España  
-- 📁 CV: *Disponible a petición*
+- 📧 **Email:** [pedrobaonza0115@gmail.com](mailto:pedrobaonza0115@gmail.com)  
+- 💼 **LinkedIn:** [Pedro Baonza García](https://www.linkedin.com/in/pedro-baonza-garc%C3%ADa-411b15274/)  
+- 🗂️ **TFG en GitLab:** [ShoppingMall App](https://gitlab.com/tu-usuario/shoppingmall-app)
 
 ---
 
