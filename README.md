@@ -1,113 +1,123 @@
-<!-- Encabezado animado -->
+<!-- Encabezado principal -->
 <h1 align="center">👋 ¡Hola! Soy Pedro Baonza</h1>
-<h3 align="center">Desarrollador Android | Técnico en sistemas eléctricos | En busca de nuevas oportunidades</h3>
+<h3 align="center">Desarrollador Android | Apasionado por la tecnología y la experiencia de usuario</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+Android+con+pasión+por+crear;Apps+funcionales+y+atractivas;Formado+en+el+mundo+eléctrico+y+digital" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+Android+con+Kotlin+y+Firebase;Amante+del+clean+code+y+el+dise%C3%B1o+UI;Buscando+nuevas+oportunidades+profesionales" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 📌 Sobre mí
 
-Soy una persona dinámica, proactiva y con muchas ganas de aprender. Vengo del mundo de la electricidad, pero descubrí mi pasión por el desarrollo de software y desde entonces no he dejado de crecer.
+Soy un desarrollador Android en formación con un perfil técnico sólido y una actitud proactiva. Mi enfoque está en construir aplicaciones modernas, funcionales y centradas en el usuario. Me adapto fácilmente a nuevos entornos y tecnologías, y disfruto tanto del trabajo individual como colaborativo.
 
-🧰 **Mi enfoque es combinar la técnica con lo visual**: construir soluciones funcionales y atractivas.  
-🚀 **Actualmente estoy desarrollando una app Android como parte de mi TFG**, centrada en la experiencia de compra en centros comerciales.
+🔧 Formado también como técnico en sistemas eléctricos y automatismos, aporto una visión integral desde la infraestructura hasta la experiencia digital.
+
+🎯 Actualmente, estoy finalizando mi **TFG**, una app de e-commerce enfocada en centros comerciales, desarrollada con arquitectura **MVVM**, **Firebase** y un diseño moderno e internacionalizado.
 
 ---
 
-## 🎓 Formación Académica
+## 🧠 Resumen profesional
+
+- 📱 Desarrollo Android con Kotlin y XML
+- 💡 Arquitectura MVVM, Repository pattern, Firebase
+- 🌍 Diseño UI/UX limpio, internacionalizado (ES/EN)
+- 🔄 Pruebas unitarias con JUnit, trabajo con Retrofit y Glide
+- 🤝 Buen manejo de Git, GitHub y GitLab
+
+---
+
+## 🎓 Formación
 
 🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma**  
-📍 IES Gonzalo Chacón, Madrid (2023 – 2025)
+📍 *IES Gonzalo Chacón – Madrid*  
+🗓️ *2023 – 2025*
 
 🔌 **Técnico Superior en Sistemas Electrotécnicos y Automáticos**  
-📍 IES Satafi, Getafe (2021 – 2023)
+📍 *IES Satafi – Getafe*  
+🗓️ *2021 – 2023*
 
 ---
 
-## 🧪 Tecnologías y herramientas que domino
+## 🚀 Proyecto destacado – Trabajo Final de Grado (TFG)
+
+### 🛍️ **ShoppingMall App** – App Android de e-commerce y exploración de centros comerciales
+
+<img align="right" width="300" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif">
+
+**Descripción**:  
+Una aplicación móvil que permite al usuario explorar diferentes centros comerciales, descubrir tiendas, ver productos destacados y gestionar su perfil.  
+La app está enfocada en la experiencia de usuario y cuenta con funciones sociales como "likes" por centro comercial, buscador de productos y navegación por secciones.
+
+**Tecnologías utilizadas**:
+- 🧱 Arquitectura MVVM + Repository
+- 🔥 Firebase (Auth, Firestore, Storage)
+- 📡 Retrofit para consumo de APIs
+- 🖼️ Glide para carga de imágenes
+- 🌐 Internacionalización (ES/EN)
+- 🧪 JUnit para pruebas unitarias
+- 🎨 Diseño moderno, con secciones tipo card y fondo degradado
+
+🔗 [Ver proyecto en GitLab](https://gitlab.com/tu-usuario/shoppingmall-app)
+
+---
+
+## 🛠️ Tecnologías y herramientas
 
 <div align="center">
-  
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Room](https://img.shields.io/badge/Room-8B0000?style=for-the-badge)
 ![Retrofit](https://img.shields.io/badge/Retrofit-000000?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Room](https://img.shields.io/badge/Room-8B0000?style=for-the-badge)
+![Glide](https://img.shields.io/badge/Glide-34A853?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 </div>
 
 ---
 
-## 📱 Proyectos destacados
-
-### 🛍️ ShoppingMall App (TFG)
-Una aplicación Android donde los usuarios pueden explorar centros comerciales, ver tiendas, productos y dar likes.  
-- Arquitectura MVVM, Glide, Firebase (Auth, Firestore), Retrofit  
-- Internacionalización (ES/EN), diseño moderno  
-- Gestión de perfiles y navegación intuitiva  
-🔗 [Ver repositorio](https://github.com/tu-usuario/shoppingmall-app)
-
-### 💻 CRUD con Java e Hibernate
-App de escritorio para la gestión de usuarios con base de datos y operaciones CRUD completas.  
-- Java + Hibernate + SQL  
-- Proyecto final del módulo de acceso a datos  
-🔗 *(Repositorio privado – disponible bajo solicitud)*
-
----
-
-## 🧠 Conocimientos técnicos
-
-| Lenguaje / Herramienta | Nivel | Detalles |
-|------------------------|-------|----------|
-| **Java**               | Avanzado | CRUD, Hibernate, Eclipse, IntelliJ |
-| **Android (XML + Kotlin)** | Intermedio | MVVM, Firebase, Jetpack |
-| **HTML/CSS**           | Intermedio | Formularios, estilos personalizados |
-| **Python**             | Básico | Uso autodidacta |
-| **Git & GitHub**       | Bueno | Gestión de versiones, ramas y proyectos colaborativos |
-
----
-
-## 📊 Estadísticas
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tu-usuario&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧩 Experiencia profesional destacada
+## 💼 Experiencia laboral
 
-- 🎡 **Electromecánico – Gestiman (2023-2024)**  
+- 🎡 **Electromecánico – Gestiman (2023–2024)**  
   Mantenimiento de atracciones acuáticas (Warner Beach y Aquopolis)
 
-- 🧾 **Atención al cliente – Trablisa y Prosegur (2023-2025)**  
-  Gestión de incidencias y soporte en el centro comercial X-Madrid
+- 🧾 **Atención al cliente – Trablisa / Prosegur (2023–2025)**  
+  Gestión de incidencias, atención al público y soporte en centro comercial X-Madrid
 
-- 💡 **Electricista – Angel Feito / IVOLTA**  
-  Instalación, diseño lumínico y mantenimiento en viviendas unifamiliares
-
----
-
-## 🗣️ Idiomas
-
-- Español (Nativo) 🇪🇸  
-- Inglés (Nivel básico/intermedio en progreso) 🇬🇧
+- 💡 **Electricista – Ángel Feito / IVOLTA (2021–2023)**  
+  Diseño lumínico, mantenimiento e instalaciones eléctricas
 
 ---
 
-## 📫 ¿Cómo contactarme?
+## 🌍 Idiomas
 
-- 📧 Email: [pedrobaonza0115@gmail.com](mailto:pedrobaonza0115@gmail.com)  
+- Español: Nativo 🇪🇸  
+- Inglés: Nivel básico/intermedio 🇬🇧 *(En proceso de mejora continua)*
+
+---
+
+## 📫 Contacto
+
+¿Te gustaría colaborar conmigo o contratarme?
+
+- ✉️ Email: [pedrobaonza0115@gmail.com](mailto:pedrobaonza0115@gmail.com)  
 - 💼 LinkedIn: [Pedro Baonza García](https://www.linkedin.com/in/pedro-baonza-garc%C3%ADa-411b15274/)  
-- 📍 Madrid, España
+- 📍 Madrid, España  
+- 📁 CV: *Disponible a petición*
 
 ---
 
