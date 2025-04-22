@@ -1,5 +1,5 @@
 <!-- Encabezado con animación y presentación -->
-<h1 align="center">👋 ¡Hola, soy [Tu Nombre]!</h1>
+<h1 align="center">👋 ¡Hola, soy Pedro Baonza García!</h1>
 <h3 align="center">Desarrollador Android | Apasionado por crear experiencias móviles modernas</h3>
 
 <p align="center">
@@ -40,12 +40,12 @@ Mi enfoque está en escribir código limpio, mantener buenas prácticas y siempr
 
 ## 📱 Proyectos destacados
 
-### 🛍️ ShoppingMall App *(TFG)*
+### 🛍️ Mall Center App *(TFG)*
 Una app de exploración de centros comerciales, con likes, perfil de usuario y catálogo de productos.  
 ✔️ Firebase Auth + Firestore  
 ✔️ Arquitectura MVVM + Glide + Retrofit  
 ✔️ UI moderna, responsive y en español/inglés  
-🔗 [Ver repositorio](https://github.com/tu-usuario/shoppingmall-app)
+🔗 [Ver repositorio](https://github.com/tu-usuario/shoppingmall-app](https://gitlab.com/pedrobaonza0115/tfg-mallcenter_2025))
 
 ---
 
