@@ -18,15 +18,15 @@ Soy un desarrollador Android con experiencia en Kotlin, Java y arquitectura MVVM
 
 🌍 Idiomas:
 - Español (nativo)
-- Inglés (intermedio/avanzado)
+- Inglés (bajo)
 
 ---
 
 ## 📱 Proyectos destacados
 
-### 🛍️ **ShoppingMall App**
+### 🛍️ **Mall-Center App**
 Aplicación Android que permite a los usuarios explorar centros comerciales, tiendas y productos. Incluye login con Firebase, likes, y navegación entre secciones.  
-🔗 [Ver repositorio](https://github.com/tu-usuario/shoppingmall-app)
+🔗 [Ver repositorio]([https://github.com/tu-usuario/shoppingmall-app](https://gitlab.com/pedrobaonza0115/tfg-mallcenter_2025))
 
 ### 📖 **Mi portafolio web**
 Un sitio web simple para mostrar mis proyectos y contacto.  
@@ -39,7 +39,7 @@ Un sitio web simple para mostrar mis proyectos y contacto.
 ¿Te interesa colaborar o contratarme?  
 Puedes escribirme por correo o conectar conmigo en LinkedIn:
 
-- ✉️ tu.email@ejemplo.com  
+- ✉️ pedrobaonza0115@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
 - 📁 [CV en PDF](https://link-a-tu-cv.com)
 
