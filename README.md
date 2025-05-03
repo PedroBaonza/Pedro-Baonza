@@ -4,10 +4,10 @@
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy Pedro Baonza</h1>
-<h3 align="center">Desarrollador Android | Kotlin · Firebase · MVVM | Apasionado por crear apps intuitivas</h3>
+<h3 align="center">Desarrollador Android | Kotlin · Firebase · MVVM | En constante evolución</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+Android+Multiplataforma;Apasionado+por+el+código+limpio+y+la+experiencia+de+usuario;Siempre+aprendiendo+y+mejorando" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Android+Developer+%7C+Kotlin+%7C+Firebase+%7C+MVVM;Apasionado+por+el+c%C3%B3digo+limpio+y+la+UX;Siempre+creando%2C+siempre+aprendiendo" />
 </p>
 
 <div align="center">
@@ -26,69 +26,58 @@
 
 ## 📌 Sobre mí
 
-Soy un desarrollador Android con un fuerte enfoque en construir aplicaciones modernas, funcionales y visualmente atractivas.  
-Me apasiona el diseño intuitivo, la arquitectura limpia y el aprendizaje constante. Mi background técnico incluye formación en electricidad, lo que me da una visión integral del desarrollo de soluciones.
+Soy un desarrollador Android junior con ganas de seguir creciendo en el mundo del desarrollo móvil. Me apasiona crear apps prácticas, intuitivas y bien estructuradas. Actualmente finalizando mi TFG con una app tipo e-commerce para centros comerciales.
 
-🎓 Finalizando mi TFG con una app e-commerce para centros comerciales (ShoppingMall App).  
-🛠️ Especializado en arquitectura **MVVM**, Firebase, Retrofit, y diseño adaptable.
+🎯 Me especializo en arquitectura **MVVM**, consumo de APIs con **Retrofit**, autenticación y almacenamiento con **Firebase**, diseño adaptable y buenas prácticas de testing con **JUnit**.
 
 ---
 
-## 🧠 ¿Qué me define como profesional?
+## 💼 Experiencia laboral
 
-- 🔍 Fuerte orientación al detalle y código limpio
-- 🤝 Facilidad para trabajar en equipo o de forma autónoma
-- 📦 Experiencia práctica en entornos reales (electricidad, soporte, desarrollo)
-- 📱 Visión completa: desde base de datos hasta UI
-- 🧠 Mentalidad de mejora continua
-
----
-
-## 📽️ Demo & APK
-
-- 🎥 [Ver vídeo demo de la app](https://youtube.com/...) *(flujo completo: login, exploración, likes, perfil)*
-- 📦 [Descargar APK (versión de prueba)](https://drive.google.com/...)
+| Rol                         | Empresa                | Fecha              |
+|-----------------------------|------------------------|--------------------|
+| Electromecánico             | Gestiman               | Jul 2023 – Ago 2024|
+| Atención al cliente (X-Madrid) | Prosegur / Trablisa  | Sep 2022 – Mar 2025|
+| Técnico electricista        | Ángel Feito / IVOLTA   | 2021 – 2023        |
 
 ---
 
-## 🛍️ Proyecto destacado — Trabajo Final de Grado
+## 🚀 Proyectos destacados
 
-### **ShoppingMall App** · Aplicación Android tipo e-commerce
+### 📱 ShoppingMall App – TFG Android (en GitLab)
 
-<img src="https://your-image-url.com/shoppingmall-preview.png" width="320" align="right" />
+Aplicación Android tipo e-commerce donde el usuario puede explorar centros comerciales, dar likes a productos, ver tiendas destacadas, noticias, etc.
 
-**Descripción**:  
-App desarrollada como parte del TFG del ciclo de DAM. El usuario puede explorar centros comerciales, ver productos, dar likes, gestionar su perfil y navegar entre secciones como noticias y tiendas destacadas.
+**Tecnologías:** Kotlin, Firebase Auth & Firestore, Retrofit, Glide, MVVM, BottomNavigationView, Room, Internacionalización EN/ES.
 
-**Características:**
-- Login con Firebase Auth
-- Listado dinámico de centros (Firestore) con likes únicos por usuario
-- Arquitectura MVVM + Repository
-- Retrofit + Glide + Room
-- Internacionalización ES/EN
-- UI moderna con diseño responsivo
-- BottomNavigationView y ScrollView animado
-
-🔗 [Repositorio completo en GitLab](https://gitlab.com/tu-usuario/shoppingmall-app)
+🔗 [Ver repositorio](https://gitlab.com/tu-usuario/shoppingmall-app)
 
 ---
 
-## 📂 Documentación técnica del proyecto
+### 📚 BookExplorer – App Android
 
-🧱 **Arquitectura usada:** MVVM + Repository pattern  
-📊 **Base de datos:** Firestore (colecciones: users, malls, products, likes)  
-🔗 **APIs:** Retrofit (simulación y pruebas)  
-🧪 **Testing:** Unit tests con JUnit + Firebase Emulator Suite  
-📁 **Estructura de carpetas:** `view/`, `viewmodel/`, `repository/`, `model/`, `utils/`
+App para buscar libros desde OpenLibrary API, mostrando resultados en un RecyclerView y vista de detalle.
 
-📝 Próximamente: PDF técnico con flujos y diagrama de arquitectura
+**Stack técnico:** Kotlin, MVVM, Retrofit, Coroutines, ConstraintLayout, JUnit
+
+🔗 [Ver proyecto](https://github.com/PedroBaonza/BookExplorer) | [Ver demo](https://pedrobaonza.github.io/bookexplorer)
 
 ---
 
-## 🛠️ Tecnologías que domino
+### ✅ ToDo List Clean Testing
+
+App de tareas con arquitectura Clean, Room, y diferentes tipos de tests.
+
+**Incluye:** JUnit, Espresso, MockWebServer, Mockito, y pruebas unitarias y de UI.
+
+🔗 [Repositorio en GitHub](https://github.com/PedroBaonza/ToDoList-CleanTesting)
+
+---
+
+## 🛠️ Tecnologías y herramientas
 
 <div align="center">
-
+  
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
@@ -103,72 +92,43 @@ App desarrollada como parte del TFG del ciclo de DAM. El usuario puede explorar 
 
 ---
 
-## 💼 Experiencia laboral
+## 📗 Blog y portfolio
 
-| Rol                         | Empresa           | Fecha                |
-|-----------------------------|-------------------|----------------------|
-| Electromecánico             | Gestiman          | 07/2023 – 08/2024    |
-| Atención al cliente (X-Madrid) | Prosegur / Trablisa | 09/2022 – 03/2025 |
-| Electricista técnico        | Ángel Feito / IVOLTA | 2021 – 2023       |
+📬 Visita mi portfolio: [https://pedrobaonza.github.io](https://pedrobaonza.github.io)
 
----
+📝 Publico artículos sobre mis aprendizajes en Android, arquitectura y buenas prácticas.
 
-## 🧩 Otros proyectos
-
-### 📒 NotasApp  
-App simple para crear, editar y eliminar notas usando Room y RecyclerView.  
-🔗 [Repositorio GitHub](https://github.com/tu-usuario/notasapp)
-
-### 🎬 UI Clone – Netflix Android  
-Reproducción visual de la app de Netflix con Jetpack Compose.  
-🔗 [Ver proyecto](https://github.com/tu-usuario/netflix-clone)
-
----
-
-## 🌍 Idiomas
-
-- Español (Nativo) 🇪🇸  
-- Inglés (Básico-intermedio) 🇬🇧 *(en progreso)*
+Próximos temas:
+- Cómo usar Retrofit con Kotlin paso a paso
+- MVVM en Android explicado desde cero
+- Firebase Auth + Firestore en apps reales
+- Testing de apps Android: unitarios y UI
 
 ---
 
 ## 🧭 Roadmap profesional
 
 - 🧠 Jetpack Compose avanzado
-- ✅ Testing con Mockito + UI Tests
-- 📦 Clean Architecture + SOLID
-- 🌐 Backend con Spring Boot o Firebase Functions
-- 🗣️ Mejorar inglés técnico y obtener certificación Android
+- 🧪 UI testing con Espresso + Mockito
+- 🧱 Clean Architecture (Modular + SOLID)
+- 🌍 Backend con Firebase Functions / Spring Boot
+- 📈 Mejora de inglés técnico y soft skills
 
 ---
 
-## 🏆 Logros y reconocimientos
+## 🗣️ Idiomas
 
-- 🥇 Desarrollo completo de app profesional desde cero como TFG
-- 🧑‍🏫 Destacado por su autonomía y detalle en el diseño durante prácticas
-- 📲 App disponible para prueba en dispositivos reales
-
----
-
-## 💬 Testimonios
-
-> _“Pedro mostró compromiso, creatividad y madurez en el desarrollo de su app. Ha superado todas las expectativas.”_  
-> – Profesor tutor, IES Gonzalo Chacón
+- Español 🇪🇸 (nativo)
+- Inglés 🇬🇧 (nivel B1 – en progreso)
 
 ---
 
-## 📫 ¿Hablamos?
+## 📫 Contacto
 
-- 📧 [pedrobaonza0115@gmail.com](mailto:pedrobaonza0115@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-baonza-garc%C3%ADa-411b15274/)  
-- 📍 Madrid, España  
+- 📧 pedrobaonza0115@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-baonza-garc%C3%ADa-411b15274/)
+- 📍 Madrid, España
 - 📁 CV disponible bajo solicitud
-
----
-
-## 🌐 Multilenguaje
-
-📄 Disponible también en: [🇪🇸 Español](#sobre-mí) | [🇬🇧 English version (coming soon)](#)
 
 ---
 
