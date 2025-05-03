@@ -60,7 +60,7 @@ App para buscar libros desde OpenLibrary API, mostrando resultados en un Recycle
 
 **Stack técnico:** Kotlin, MVVM, Retrofit, Coroutines, ConstraintLayout, JUnit
 
-🔗 [Ver proyecto](https://github.com/PedroBaonza/BookExplorer) | [Ver demo](https://pedrobaonza.github.io/bookexplorer)
+🔗 [Ver proyecto](https://github.com/PedroBaonza/BookExplorer) | [Ver demo](https://pedrobaonza.github.io/pedrodev.github.io/html/bookExplorer.html)
 
 ---
 
@@ -94,7 +94,7 @@ App de tareas con arquitectura Clean, Room, y diferentes tipos de tests.
 
 ## 📗 Blog y portfolio
 
-📬 Visita mi portfolio: [https://pedrobaonza.github.io](https://pedrobaonza.github.io)
+📬 Visita mi portfolio: [https://pedrobaonza.github.io](https://pedrobaonza.github.io/pedrodev.github.io/)
 
 📝 Publico artículos sobre mis aprendizajes en Android, arquitectura y buenas prácticas.
 
