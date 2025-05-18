@@ -1,6 +1,6 @@
 <!-- Banner visual -->
 <p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Pedro Baonza Banner" />
+  <img src="https://pedrobaonza.github.io/pedrodev.github.io/images/banner.png" alt="Pedro Baonza Banner" />
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy Pedro Baonza</h1>
@@ -12,12 +12,12 @@
 
 <div align="center">
   <a href="mailto:pedrobaonza0115@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contáctame-green?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/pedro-baonza-garc%C3%ADa-411b15274">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://gitlab.com/tu-usuario/shoppingmall-app">
+  <a href="https://gitlab.com/PedroBaonza/TFG-CentrosComerciales">
     <img src="https://img.shields.io/badge/TFG%20App-Ver%20en%20GitLab-orange?style=for-the-badge&logo=gitlab" />
   </a>
 </div>
@@ -26,58 +26,65 @@
 
 ## 📌 Sobre mí
 
-Soy un desarrollador Android junior con ganas de seguir creciendo en el mundo del desarrollo móvil. Me apasiona crear apps prácticas, intuitivas y bien estructuradas. Actualmente finalizando mi TFG con una app tipo e-commerce para centros comerciales.
+Soy desarrollador Android con formación técnica y un enfoque práctico. Me apasiona construir apps bien estructuradas, que combinen una buena experiencia de usuario con lógica robusta y arquitectura moderna.
 
-🎯 Me especializo en arquitectura **MVVM**, consumo de APIs con **Retrofit**, autenticación y almacenamiento con **Firebase**, diseño adaptable y buenas prácticas de testing con **JUnit**.
+🧠 Actualmente he finalizado mi TFG creando una app de e-commerce para centros comerciales. También estoy trabajando en **WellList**, una app de bienestar personal y familiar que une tareas, hábitos y gamificación.
+
+🎯 Me especializo en:
+- Arquitectura **MVVM** + Clean Architecture
+- Firebase (Auth, Firestore, Storage)
+- Testing con JUnit, Espresso y MockWebServer
+- Buenas prácticas de UI/UX en Android
 
 ---
 
 ## 💼 Experiencia laboral
 
-| Rol                         | Empresa                | Fecha              |
-|-----------------------------|------------------------|--------------------|
-| Electromecánico             | Gestiman               | Jul 2023 – Ago 2024|
-| Atención al cliente (X-Madrid) | Prosegur / Trablisa  | Sep 2022 – Mar 2025|
-| Técnico electricista        | Ángel Feito / IVOLTA   | 2021 – 2023        |
+| Rol                          | Empresa                | Fecha              |
+|------------------------------|------------------------|--------------------|
+| 👨‍💻 Desarrollador Android (Prácticas) | Atresmedia             | Abr 2025 – actualidad |
+| 🔧 Electromecánico            | Gestiman               | Jul 2023 – Ago 2024|
+| 🛎 Atención al cliente (X-Madrid) | Prosegur / Trablisa | Sep 2022 – Mar 2025|
+| ⚡ Técnico electricista       | Ángel Feito / IVOLTA   | 2021 – 2023        |
 
 ---
 
 ## 🚀 Proyectos destacados
 
-### 📱 ShoppingMall App – TFG Android (en GitLab)
+### 🛒 TFG – App Centros Comerciales
 
-Aplicación Android tipo e-commerce donde el usuario puede explorar centros comerciales, dar likes a productos, ver tiendas destacadas, noticias, etc.
+Aplicación Android que permite explorar centros, productos, noticias y realizar compras. Carrito por centro, likes persistentes, valoración por estrellas, panel de noticias por mall y más.
 
-**Tecnologías:** Kotlin, Firebase Auth & Firestore, Retrofit, Glide, MVVM, BottomNavigationView, Room, Internacionalización EN/ES.
+🔧 Kotlin · Firebase Auth · Firestore · Glide · MVVM · BottomNavigation · Room · Internacionalización
 
-🔗 [Ver repositorio](https://gitlab.com/tu-usuario/shoppingmall-app)
-
----
-
-### 📚 BookExplorer – App Android
-
-App para buscar libros desde OpenLibrary API, mostrando resultados en un RecyclerView y vista de detalle.
-
-**Stack técnico:** Kotlin, MVVM, Retrofit, Coroutines, ConstraintLayout, JUnit
-
-🔗 [Ver proyecto](https://github.com/PedroBaonza/BookExplorer) | [Ver demo](https://pedrobaonza.github.io/pedrodev.github.io/html/bookExplorer.html)
+🔗 [Repositorio GitLab](https://gitlab.com/PedroBaonza/TFG-CentrosComerciales)
 
 ---
 
-### ✅ ToDo List Clean Testing
+### 📚 BookExplorer
 
-App de tareas con arquitectura Clean, Room, y diferentes tipos de tests.
+App para explorar libros desde OpenLibrary API, con arquitectura MVVM y pruebas unitarias.
 
-**Incluye:** JUnit, Espresso, MockWebServer, Mockito, y pruebas unitarias y de UI.
+🛠 Kotlin · Retrofit · Coroutines · ConstraintLayout · JUnit
 
-🔗 [Repositorio en GitHub](https://github.com/PedroBaonza/ToDoList-CleanTesting)
+🔗 [Ver en GitHub](https://github.com/PedroBaonza/BookExplorer) · [Ver demo](https://pedrobaonza.github.io/pedrodev.github.io/html/bookExplorer.html)
+
+---
+
+### 🧪 ToDoList – Clean Architecture + Testing
+
+Gestor de tareas con arquitectura limpia, Room, y pruebas de todo tipo (unitarias y de UI).
+
+🧰 JUnit · Espresso · MockWebServer · Mockito
+
+🔗 [Repositorio GitHub](https://github.com/PedroBaonza/ToDoList-CleanTesting)
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
 <div align="center">
-  
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
@@ -92,43 +99,42 @@ App de tareas con arquitectura Clean, Room, y diferentes tipos de tests.
 
 ---
 
-## 📗 Blog y portfolio
+## 📝 Blog y Portfolio
 
-📬 Visita mi portfolio: [https://pedrobaonza.github.io](https://pedrobaonza.github.io/pedrodev.github.io/)
+📬 Portafolio personal: [pedrobaonza.github.io](https://pedrobaonza.github.io/pedrodev.github.io/)
 
-📝 Publico artículos sobre mis aprendizajes en Android, arquitectura y buenas prácticas.
+🔍 En mi blog comparto lo que voy aprendiendo sobre desarrollo Android, testing y arquitectura limpia.
 
-Próximos temas:
-- Cómo usar Retrofit con Kotlin paso a paso
-- MVVM en Android explicado desde cero
-- Firebase Auth + Firestore en apps reales
-- Testing de apps Android: unitarios y UI
+**Próximos temas:**
+- Guía Retrofit con Kotlin paso a paso
+- MVVM y su implementación real
+- Firebase Firestore en apps reales
+- Testing Android: unitarios y de UI
 
 ---
 
 ## 🧭 Roadmap profesional
 
-- 🧠 Jetpack Compose avanzado
-- 🧪 UI testing con Espresso + Mockito
-- 🧱 Clean Architecture (Modular + SOLID)
-- 🌍 Backend con Firebase Functions / Spring Boot
-- 📈 Mejora de inglés técnico y soft skills
+- ⚙️ Jetpack Compose avanzado
+- 🧪 UI Testing + Espresso + Mockito
+- 📐 Clean Architecture modular
+- ☁️ Backend serverless (Firebase Functions)
+- 🇬🇧 Mejora de inglés técnico
 
 ---
 
-## 🗣️ Idiomas
+## 🌍 Idiomas
 
-- Español 🇪🇸 (nativo)
-- Inglés 🇬🇧 (nivel B1 – en progreso)
+- Español 🇪🇸 (nativo)  
+- Inglés 🇬🇧 (B1 en progreso)
 
 ---
 
 ## 📫 Contacto
 
-- 📧 pedrobaonza0115@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-baonza-garc%C3%ADa-411b15274/)
+- 📧 Email: pedrobaonza0115@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-baonza-garc%C3%ADa-411b15274/)  
 - 📍 Madrid, España
-- 📁 CV disponible bajo solicitud
 
 ---
 
